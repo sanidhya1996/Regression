@@ -148,8 +148,8 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 - **Sanidhya Shekhar**  
   - 📧: sanidhyashekhar1996@gmail.com  
-  - 🔗: [LinkedIn](https://www.linkedin.com/in/sanidhyashekhar)  
-  - 🌐: [GitHub Repository](https://github.com/sanidhyashekhar/SeoulBikeDemandPrediction)
+  - 🔗: [LinkedIn](https://www.linkedin.com/in/sanidhya-shekhar)  
+  - 🌐: [GitHub Repository](https://github.com/sanidhya1996/SeoulBikeDemandPrediction)
 
 ---
 
@@ -158,6 +158,6 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 For any questions, feedback, or collaboration opportunities, please feel free to reach out to:
 
 - 📧 **Email**: sanidhyashekhar1996@gmail.com  
-- 🌐 **GitHub**: [Sanidhya Shekhar](https://github.com/sanidhyashekhar)  
+- 🌐 **GitHub**: [Sanidhya Shekhar](https://github.com/sanidhya1996)  
 
 ---
